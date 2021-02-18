@@ -1,0 +1,494 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "CookedSkin",
+      "type": "food",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cooked_skin"
+    },
+    {
+      "name": "BetterFood",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "better_food"
+    },
+    {
+      "name": "AdvWhy",
+      "type": "achievement",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "adv_why"
+    },
+    {
+      "name": "CookedLeatherRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cooked_leather_recipe"
+    },
+    {
+      "name": "BoiledEgg",
+      "type": "food",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "boiled_egg"
+    },
+    {
+      "name": "BoiledEggRecipe",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "boiled_egg_recipe"
+    },
+    {
+      "name": "BrokenEggFoodEaten",
+      "type": "procedure",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "broken_egg_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BrokenEgg",
+      "type": "food",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "broken_egg"
+    },
+    {
+      "name": "BrokenEggRecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "broken_egg_recipe"
+    },
+    {
+      "name": "ScrambledEgg",
+      "type": "food",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "scrambled_egg"
+    },
+    {
+      "name": "ScrabledEggRecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "scrabled_egg_recipe"
+    },
+    {
+      "name": "BreadPiece",
+      "type": "food",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bread_piece"
+    },
+    {
+      "name": "BreadPieceRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bread_piece_recipe"
+    },
+    {
+      "name": "BreadWithEgg",
+      "type": "food",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bread_with_egg"
+    },
+    {
+      "name": "BreadWithEggRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bread_with_egg_recipe"
+    },
+    {
+      "name": "SaltFoodEaten",
+      "type": "procedure",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "salt_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Salt",
+      "type": "food",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "salt"
+    },
+    {
+      "name": "SaltOre",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "salt_ore"
+    },
+    {
+      "name": "SaltRepice",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "salt_repice"
+    },
+    {
+      "name": "ScrambledEggsWithPotatos",
+      "type": "food",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "scrambled_eggs_with_potatos"
+    },
+    {
+      "name": "ScrambledEggsWithPotatoesRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "scrambled_eggs_with_potatoes_recipe"
+    },
+    {
+      "name": "SaltyAdv",
+      "type": "achievement",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "salty_adv"
+    },
+    {
+      "name": "WOOOAdv",
+      "type": "achievement",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wooo_adv"
+    },
+    {
+      "name": "BoiledWater",
+      "type": "food",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "boiled_water"
+    },
+    {
+      "name": "BoiledWaterBottleRecipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "boiled_water_bottle_recipe"
+    },
+    {
+      "name": "FriedSlimeFoodEaten",
+      "type": "procedure",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fried_slime_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "FriedSlime",
+      "type": "food",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fried_slime"
+    },
+    {
+      "name": "Jar",
+      "type": "item",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jar"
+    },
+    {
+      "name": "HoneyJar",
+      "type": "food",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "honey_jar"
+    },
+    {
+      "name": "JarRecipe",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jar_recipe"
+    },
+    {
+      "name": "HoneyJarRecipe",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "honey_jar_recipe"
+    },
+    {
+      "name": "FriedSlimeRecipe",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fried_slime_recipe"
+    },
+    {
+      "name": "CookedLeatherRecipe2",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cooked_leather_recipe_2"
+    },
+    {
+      "name": "BoiledEggRecipe2",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "boiled_egg_recipe_2"
+    },
+    {
+      "name": "ScrambledEggRecipe2",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "scrambled_egg_recipe_2"
+    },
+    {
+      "name": "SaltRecipe2",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "salt_recipe_2"
+    },
+    {
+      "name": "FriedSlimeRecipe2",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fried_slime_recipe_2"
+    },
+    {
+      "name": "BoiledWaterBottleRecipe1",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "boiled_water_bottle_recipe_1"
+    },
+    {
+      "name": "Tomato",
+      "type": "food",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tomato"
+    },
+    {
+      "name": "TomatoSoup",
+      "type": "food",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tomato_soup"
+    },
+    {
+      "name": "TomatoPlant",
+      "type": "plant",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tomato_plant"
+    },
+    {
+      "name": "TomatoSoupRecipe",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tomato_soup_recipe"
+    },
+    {
+      "name": "CookedRabbitFoot",
+      "type": "food",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cooked_rabbit_foot"
+    },
+    {
+      "name": "CookedRabbitFootRecipe",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cooked_rabbit_foot_recipe"
+    },
+    {
+      "name": "CookedRabbitFootRecipe1",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cooked_rabbit_foot_recipe_1"
+    },
+    {
+      "name": "TomatosAreNotBadAdv",
+      "type": "achievement",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tomatos_are_not_bad_adv"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.zxbfm.bread_with_egg": "Bread With Egg",
+      "item.zxbfm.jar": "Jar",
+      "item.zxbfm.scrambled_egg": "Scrambled Egg",
+      "item.zxbfm.broken_egg": "Broken Egg",
+      "advancements.wooo_adv.title": "WOOOOO",
+      "advancements.tomatos_are_not_bad_adv.title": "Tomatos are not bad!",
+      "item.zxbfm.boiled_egg": "Boiled Egg",
+      "item.zxbfm.fried_slime": "Fried Slime",
+      "item.zxbfm.cooked_skin": "Cooked Leather",
+      "item.zxbfm.salt": "Salt",
+      "advancements.salty_adv.descr": "Get salt.",
+      "advancements.adv_why.title": "Why?",
+      "block.zxbfm.salt_ore": "Salt Ore",
+      "block.zxbfm.tomato_plant": "Tomato Plant",
+      "advancements.wooo_adv.descr": "Eat salt and be FAST!",
+      "item.zxbfm.tomato": "Tomato",
+      "item.zxbfm.tomato_soup": "Tomato Soup",
+      "item.zxbfm.cooked_rabbit_foot": "Cooked Rabbit Foot",
+      "item.zxbfm.bread_piece": "Bread Piece",
+      "item.zxbfm.scrambled_eggs_with_potatos": "Scrambled Eggs With Potatoes",
+      "advancements.tomatos_are_not_bad_adv.descr": "Eat \"not bad\" tomato.",
+      "advancements.salty_adv.title": "Salty!",
+      "itemGroup.tabbetter_food": "Better Food Mod",
+      "item.zxbfm.honey_jar": "Honey Jar",
+      "item.zxbfm.boiled_water": "Boiled Water Bottle",
+      "advancements.adv_why.descr": "Eat cooked leather..."
+    }
+  },
+  "workspaceSettings": {
+    "modid": "zxbfm",
+    "modName": "ZetingX Better Food Mod",
+    "version": "1.0.0",
+    "description": "Better foods :)",
+    "author": "ZetingX",
+    "websiteURL": "https://youtube.com/c/ZetingX",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "credits": "no credits",
+    "modElementsPackage": "net.mcreator.zxbfm",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

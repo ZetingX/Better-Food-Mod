@@ -1,0 +1,20 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smoking",
+    "xpReward": 1.0,
+    "cookingTime": 300,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smokingInputStack": {
+      "value": "Items.MILK_BUCKET"
+    },
+    "smokingReturnStack": {
+      "value": "CUSTOM:HotMilk"
+    },
+    "name": "hot_milk_recipe_smoker",
+    "namespace": "mod"
+  }
+}

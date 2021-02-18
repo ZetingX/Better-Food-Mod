@@ -1,0 +1,31 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "zxbfm:tomato"
+    },
+    "title": {
+      "translate": "advancements.tomatos_are_not_bad_adv.title"
+    },
+    "description": {
+      "translate": "advancements.tomatos_are_not_bad_adv.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "tomatos_are_not_bad_adv": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "item": "zxbfm:tomato"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  }
+}

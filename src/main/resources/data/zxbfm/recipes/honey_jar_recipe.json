@@ -1,0 +1,19 @@
+{
+  "group": "zxbfm",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:honeycomb"
+    },
+    {
+      "item": "minecraft:honeycomb"
+    },
+    {
+      "item": "zxbfm:jar"
+    }
+  ],
+  "result": {
+    "item": "zxbfm:honey_jar",
+    "count": 1
+  }
+}

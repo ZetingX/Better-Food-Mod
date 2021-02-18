@@ -1,0 +1,22 @@
+{
+  "group": "zxbfm",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "zxbfm:tomato"
+    },
+    {
+      "item": "zxbfm:tomato"
+    },
+    {
+      "item": "zxbfm:tomato"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "item": "zxbfm:tomato_soup",
+    "count": 1
+  }
+}

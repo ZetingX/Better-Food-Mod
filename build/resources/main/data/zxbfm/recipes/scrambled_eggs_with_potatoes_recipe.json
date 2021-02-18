@@ -1,0 +1,36 @@
+{
+  "group": "zxbfm",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:baked_potato"
+    },
+    "1": {
+      "item": "zxbfm:salt"
+    },
+    "2": {
+      "item": "minecraft:baked_potato"
+    },
+    "3": {
+      "item": "zxbfm:scrambled_egg"
+    },
+    "4": {
+      "item": "minecraft:baked_potato"
+    },
+    "5": {
+      "item": "zxbfm:scrambled_egg"
+    },
+    "7": {
+      "item": "minecraft:bowl"
+    }
+  },
+  "result": {
+    "item": "zxbfm:scrambled_eggs_with_potatos",
+    "count": 1
+  }
+}

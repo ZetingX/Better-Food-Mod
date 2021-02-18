@@ -1,0 +1,12 @@
+{
+  "group": "zxbfm",
+  "type": "minecraft:smoking",
+  "experience": 3,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "minecraft:rabbit_foot"
+  },
+  "result": {
+    "item": "zxbfm:cooked_rabbit_foot"
+  }
+}

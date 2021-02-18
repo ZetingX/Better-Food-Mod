@@ -1,0 +1,31 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "zxbfm:cooked_skin"
+    },
+    "title": {
+      "translate": "advancements.adv_why.title"
+    },
+    "description": {
+      "translate": "advancements.adv_why.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "adv_why": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "item": "zxbfm:cooked_skin"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  }
+}

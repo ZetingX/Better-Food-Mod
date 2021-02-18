@@ -1,0 +1,13 @@
+{
+  "group": "zxbfm",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bread"
+    }
+  ],
+  "result": {
+    "item": "zxbfm:bread_piece",
+    "count": 3
+  }
+}

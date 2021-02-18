@@ -1,0 +1,26 @@
+{
+  "_fv": 13,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "cooked_rabbit_foot",
+    "customModelName": "Normal",
+    "name": "Cooked Rabbit Foot",
+    "rarity": "COMMON",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:BetterFood"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 20,
+    "saturation": 3.9999999999999996,
+    "eatingSpeed": 32,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": true,
+    "isAlwaysEdible": false,
+    "animation": "eat",
+    "hasGlow": false
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "zxbfm:items/bread_with_honey"
+  }
+}

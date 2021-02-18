@@ -1,0 +1,20 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "xpReward": 1.0,
+    "cookingTime": 100,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "CUSTOM:SaltOre"
+    },
+    "blastingReturnStack": {
+      "value": "CUSTOM:Salt"
+    },
+    "name": "salt_repice",
+    "namespace": "mod"
+  }
+}

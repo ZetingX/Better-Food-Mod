@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "zxbfm:salt_ore"
+    },
+    "title": {
+      "translate": "advancements.salty_adv.title"
+    },
+    "description": {
+      "translate": "advancements.salty_adv.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "salty_adv": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "zxbfm:salt",
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "zxbfm:adv_why"
+}

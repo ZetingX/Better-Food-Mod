@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "zxbfm:blocks/salt_block",
+    "up": "zxbfm:blocks/salt_block",
+    "north": "zxbfm:blocks/salt_block",
+    "east": "zxbfm:blocks/salt_block",
+    "south": "zxbfm:blocks/salt_block",
+    "west": "zxbfm:blocks/salt_block",
+    "particle": "zxbfm:blocks/salt_block"
+  }
+}
